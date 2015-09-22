@@ -1,5 +1,5 @@
 # flickr_search
-An app written in Swift that can search and download pictures form Flickr.com
+An app written in Swift that can search and download pictures from Flickr.com
 <p>
   <img src="https://github.com/shuuchen/flickr_search/blob/master/flickr_search.gif" height="350" width="200"  />
 </p>
