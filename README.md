@@ -5,4 +5,5 @@ An app written in Swift with Xcode6.4 that can search and download pictures from
 </p>
 * Use auto-layout to display both portrait and landscape on multiple devices
 * Use collection view to display images
+* Use customized collection view layout to display and zoom pictures
 * Use Flickr API key to access images on Flickr.com
